@@ -1,5 +1,7 @@
 <?php 
 
+    //Alguns valores são considerados como falsos: 0, 0.0, "0", [], NULL
+
     echo true;
     echo "<br>";
     echo false;
