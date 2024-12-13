@@ -1,5 +1,3 @@
-<?php 
+<?php
 
-    echo "Testando require_once <br>";
-
-?>
+  echo "TESTANDO REQUIRE ONCE <br>";

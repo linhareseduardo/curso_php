@@ -1,9 +1,7 @@
-<?php 
+<?php
 
-$idade = 12;
+  $idade = 12;
 
-echo "A idade é: $idade <br>";
+  echo "A idade é $idade <br>";
 
-include __DIR__ . "/../testando.php";
-
-?>
+  include __DIR__ . "/../testando.php";

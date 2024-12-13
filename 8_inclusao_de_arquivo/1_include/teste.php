@@ -1,5 +1,7 @@
-<?php 
-    $c = 5;
+<?php
+
+  $c = 5;
+
 ?>
 
-<h1> Testando o include</h1>
+<h1>Testando o include</h1>

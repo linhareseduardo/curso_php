@@ -1,5 +1,3 @@
-<?php 
+<?php
 
-    echo "Testando voltar pasta <br>";
-
-?>
+  echo "TESTANDO VOLTAR PASTA <br>";

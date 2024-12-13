@@ -1,15 +1,15 @@
-<p> Testando </p>
+<p>Testando</p>
 
-<?php 
+<?php
 
-    require "teste.php";
+  require "teste.php";
 
 ?>
 
-<p> Arquivo do include </p>
+<p>Arquivo do include</p>
 
-<?php 
+<?php
 
-    require "arquivos/funcao.php"
+  require "arquivos/funcao.php";
 
 ?>
